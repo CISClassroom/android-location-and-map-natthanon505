@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-customlistview-konoha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-layouts-natthanon505" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-lifecycle-natthanon505" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-location-and-map-natthanon505" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-recycleview-konoha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-sqlite-natthanon505" vcs="Git" />
+  </component>
+</project>
